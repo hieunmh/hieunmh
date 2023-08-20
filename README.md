@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello, I'm Hieu
+Hello, I'm Hieu,
 I'm pursuing Bachelor's Degree in Information Technology at University of Engineering and Technology (UET-VNU)
 
 ## 🌐Socials
