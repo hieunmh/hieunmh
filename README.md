@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
     </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -43,9 +42,20 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,cpp,codepen,css,docker,express,git,github,html,java,js,laravel,linux,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,nuxtjs,php,postman,prisma,py,react,supabase,tailwind,ts,vscode,vue" />
 </div>
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center style="width: 100%">
+  <img style="width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true" alt="streak stats"/><br/>
+  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -57,16 +67,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center style="width: 100%">
-  <img style="width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true" alt="streak stats"/><br/>
-  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<br/><br/>
-<hr/>
+\
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
