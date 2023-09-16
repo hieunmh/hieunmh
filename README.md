@@ -21,16 +21,16 @@
  </div>
  
 <div align="center"> 
-    <a href="mailto:hieunm.pt@gmail.com">
+    <a href="mailto:hieunm.pt@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a><br/>
-    <a href="https://facebook.com/pt.minhieu">
+    <a href="https://facebook.com/pt.minhieu" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
     </a>
-    <a href="https://instagram.com/28_b2b">
+    <a href="https://instagram.com/28_b2b" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://reddit.com/user/hieuunm">
+    <a href="https://reddit.com/user/hieuunm" target="_blank">
         <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
     </a>
 </div>
@@ -60,9 +60,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center style="width: 100%">
-  <img style="width: 450px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true" alt="streak stats"/><br/>
-  <img style="width: 450px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img style="width: 450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img style="width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true" alt="streak stats"/><br/>
+  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br/><br/>
