@@ -49,7 +49,7 @@
 <div align=center style="width: 100%">
   <img style="width: 380px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true"/><br/>
   <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img style="width: 380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img style="width: 380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical" />
 </div>
 
 <br/>
