@@ -14,9 +14,8 @@
 
 <div align="center">
 
- 💬 Ask me about **Nodejs, VueJS, NuxtJS, Supabase, MySQL... or anything [here](https://github.com/hieunmh/hieunmh/issues)**
+ 💬 Ask me about VueJS, NuxtJS, Supabase, MySQL... or anything [here](https://github.com/hieunmh/hieunmh/issues)
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
@@ -48,9 +47,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center style="width: 100%">
-  <img style="width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true" alt="streak stats"/><br/>
-  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img style="width: 380px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true"/><br/>
+  <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img style="width: 380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br/>
@@ -62,12 +61,10 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieuunm/hieuunm/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
-
-\
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
