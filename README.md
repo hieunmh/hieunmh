@@ -43,10 +43,10 @@
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <div align=center style="width: 100%">
-  <img style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true"/>
+  <img style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15"/>
 <!--     <br/> -->
 <!--   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/> -->
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <br/>
