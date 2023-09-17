@@ -34,14 +34,12 @@
 <br/>
  
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<br/>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,cpp,codepen,css,docker,express,git,github,html,java,js,laravel,linux,mongodb" /><br/>
     <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,nuxtjs,php,postman,prisma,py,react,supabase,tailwind,ts,vscode,vue" />
 </div>
-<br/>
 
+<br/>
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <div align=center style="width: 100%">
