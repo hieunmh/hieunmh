@@ -1,7 +1,7 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=hieunmh&icon=2&color=0" />
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&duration=4000&center=true&color=f1f1f1&width=435&lines=Hi+👋!;I'm+Nguyen+Minh+Hieu;A+student+from+UET-VNU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&duration=4000&center=true&color=41B883&width=435&lines=Hi+👋!;I'm+Nguyen+Minh+Hieu;A+student+from+UET-VNU" alt="Typing SVG" />
 </h3>
 
 <p align="center">
