@@ -58,6 +58,6 @@
 <br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&weight=700&size=30&color=f1f1f1&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&weight=700&size=30&color=41B883&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
 </h3>
 
