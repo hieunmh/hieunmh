@@ -1,7 +1,9 @@
-<img style="height: 25px"  align="right" src="https://komarev.com/ghpvc/?username=hieunmh&label=Profile%20views&color=41B883&style=flat" />
+<div>
+    <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=hieunmh&label=Profile%20views&color=41B883&style=flat" />
+</div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&duration=4000&center=true&color=41B883&width=435&lines=Hi+👋!;I'm+Nguyen+Minh+Hieu;A+student+from+UET-VNU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&duration=4000&center=true&vCenter=true&color=41B883&width=435&lines=Hi+👋!;I'm+Nguyen+Minh+Hieu;A+student+from+UET-VNU" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -46,7 +48,7 @@
   <img style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15"/>
 <!--     <br/> -->
 <!--   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/> -->
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <br/>
