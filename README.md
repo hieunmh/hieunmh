@@ -44,18 +44,18 @@
 <br/>
 
 <h3 align="center">⚡ Stats ⚡</h3>
-<div align=center style="width: 100%">
-  <img style="height: 180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15"/>
+<div style="width: 100%" align="center">
+  <img style="height: 10rem" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15"/>
 <!--     <br/> -->
 <!--   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/> -->
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <br/>
 
-<div align="center">
+<div align="center" style="width: 100%">
   <h3>🐍 My Contributions 🐍</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieuunm/hieuunm/output/github-contribution-grid-snake.svg" />
+  <img style="width: 45rem" alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieuunm/hieuunm/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
 
