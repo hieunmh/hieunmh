@@ -56,6 +56,7 @@
 <div align="center" style="width: 100%">
   <h3>🐍 My Contributions 🐍</h3>
   <img style="width: 45rem" alt="snake eating my contributions" src="https://raw.githubusercontent.com/hieuunm/hieuunm/output/github-contribution-grid-snake.svg" />
+  <img style="width: 44rem" src="https://github-readme-activity-graph.vercel.app/graph?username=hieunmh&theme=vue&radius=20&hide_border=true&height=350" />
 </div>
 <br/>
 
