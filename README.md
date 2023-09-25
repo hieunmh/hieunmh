@@ -36,9 +36,52 @@
 <br/>
  
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<div align="center">
+
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,css,docker,express,git,github,html,java,js,laravel,mongodb,mysql" /><br/>
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,nuxtjs,php,postman,py,react,supabase,tailwind,ts,vscode,vue" />
+</div> -->
+<div align="center">
+  
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.simpleicons.org/c++/00599C" width="45px" alt="cplusplus logo" /></a>
+  <img width="4px"/>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" /></a>
+  <img width="4px" />
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo" /></a>
+  <img width="4px" />
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" /></a>
+  <img width="4px" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" /></a>
+  <img width="4px" />
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" /></a>
+  <img width="4px" />
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" /></a>
+  <img width="4px" />
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" /></a>
+  <img width="4px" />
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" /></a>
+  <img width="4px" />
+  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" /></a>
+
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo" /></a>
+  <img width="4px" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" /></a>
+  <img width="4px" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" /></a>
+  <img width="4px" />
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" /></a>
+  <img width="4px" />
+  <a href="https://nuxt.com/" target="_blank"><img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="45" alt="nuxtjs logo" /></a>
+  <img width="4px" />
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" height="45" alt="php logo" /></a>
+  <img width="4px" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" /></a>
+  <img width="4px" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" /></a>
+  <img width="4px" />
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" /></a>
+  <img width="3px" />
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" /></a>
 </div>
 
 <br/>
