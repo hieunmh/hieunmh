@@ -43,7 +43,7 @@
 </div> -->
 <div align="center">
   
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.simpleicons.org/c++/00599C" width="45px" alt="cplusplus logo" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" alt="cplusplus logo" /></a>
   <img width="4px"/>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" /></a>
   <img width="4px" />
@@ -73,7 +73,7 @@
   <img width="4px" />
   <a href="https://nuxt.com/" target="_blank"><img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="45" alt="nuxtjs logo" /></a>
   <img width="4px" />
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" height="45" alt="php logo" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://www.svgrepo.com/show/349474/php.svg" height="45" alt="php logo" /></a>
   <img width="4px" />
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" /></a>
   <img width="4px" />
