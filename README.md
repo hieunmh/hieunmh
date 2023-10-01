@@ -75,7 +75,7 @@
   <img width="4px" />
   <a href="https://www.php.net/" target="_blank"><img src="https://www.svgrepo.com/show/349474/php.svg" height="45" alt="php logo" /></a>
   <img width="4px" />
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://www.svgrepo.com/show/354238/python.svg" height="45" alt="python logo" /></a>
   <img width="4px" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" /></a>
   <img width="4px" />
