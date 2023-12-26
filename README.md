@@ -23,10 +23,10 @@
     <a href="mailto:hieunm.pt@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://facebook.com/pt.minhieu" target="_blank">
+    <a href="https://facebook.com/tk.hieunm" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
     </a>
-    <a href="https://instagram.com/28_b2b" target="_blank">
+    <a href="https://instagram.com/heheinclass" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
     <a href="https://reddit.com/user/hieuunm" target="_blank">
