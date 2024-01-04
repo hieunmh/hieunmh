@@ -43,7 +43,7 @@
 </div> -->
 <div align="center">
   
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" alt="cplusplus logo" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45px" alt="cplusplus logo" /></a>
   <img width="4px"/>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" /></a>
   <img width="4px" />
@@ -62,9 +62,9 @@
   <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" /></a>
   <img width="4px" />
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" /></a>
-
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="45" alt="mongodb logo" /></a>
   <img width="4px" />
+  
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" /></a>
   <img width="4px" />
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" /></a>
@@ -73,9 +73,13 @@
   <img width="4px" />
   <a href="https://nuxt.com/" target="_blank"><img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="45" alt="nuxtjs logo" /></a>
   <img width="4px" />
-  <a href="https://www.php.net/" target="_blank"><img src="https://www.svgrepo.com/show/349474/php.svg" height="45" alt="php logo" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" height="45" alt="php logo" /></a>
   <img width="4px" />
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.svgrepo.com/show/354238/python.svg" height="45" alt="python logo" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://www.svgrepo.com/show/374016/python.svg" height="45" alt="python logo" /></a>
+  <img width="4px" />
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="45" alt="supabase logo" /></a>
+  <img width="4px" />
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" height="45" alt="tailwind logo" /></a>
   <img width="4px" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" /></a>
   <img width="4px" />
