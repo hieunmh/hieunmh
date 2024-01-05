@@ -62,6 +62,7 @@
   <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" /></a>
   <img width="4px" />
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" /></a>
+   <img width="4px" />
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="45" alt="mongodb logo" /></a>
   <img width="4px" />
   
