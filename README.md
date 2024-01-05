@@ -64,7 +64,6 @@
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" /></a>
    <img width="4px" />
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="45" alt="mongodb logo" /></a>
-  <img width="4px" />
   
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" /></a>
   <img width="4px" />
