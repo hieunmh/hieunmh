@@ -37,13 +37,12 @@
  
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,css,docker,express,git,github,html,java,js,laravel,mongodb,mysql" /><br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,nuxtjs,php,postman,py,react,supabase,tailwind,ts,vscode,vue" />
-</div> -->
 <div align="center">
-  
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45px" alt="cplusplus logo" /></a>
+    <img src="https://skillicons.dev/icons?i=cpp,css,docker,express,git,github,html,java,js,laravel,mongodb" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,nuxtjs,php,py,supabase,tailwind,ts,vscode,vue" />
+</div>
+<div align="center"> 
+<!--   <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45px" alt="cplusplus logo" /></a>
   <img width="4px"/>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" /></a>
   <img width="4px" />
@@ -62,9 +61,8 @@
   <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" /></a>
   <img width="4px" />
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" /></a>
-   <img width="4px" />
+  <img width="4px" />
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="45" alt="mongodb logo" /></a>
-  
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" /></a>
   <img width="4px" />
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" /></a>
@@ -85,7 +83,7 @@
   <img width="4px" />
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" /></a>
   <img width="3px" />
-  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" /></a> -->
 </div>
 
 <br/>
