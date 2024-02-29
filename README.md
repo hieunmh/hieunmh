@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&duration=4000&center=true&vCenter=true&color=41B883&width=435&lines=Hi+👋!;I'm+Nguyen+Minh+Hieu;A+student+from+UET-VNU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=30&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B!;I'm+Nguyen+Minh+Hieu.;A+student+from+VNU.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%92%E3%82%A8%E3%82%A6%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;VNU%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
 
- 💬 Ask me about VueJS, NuxtJS, Supabase, MySQL... or anything [here](https://github.com/hieunmh/hieunmh/issues)
+ A Front-end Developer with a view to become a Fullstack Developer in the future.
 
  
  </div>
@@ -23,7 +23,7 @@
     <a href="mailto:hieunm.pt@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://facebook.com/tk.hieunm" target="_blank">
+    <a href="https://facebook.com/f.hieunm" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
     </a>
     <a href="https://instagram.com/heheinclass" target="_blank">
