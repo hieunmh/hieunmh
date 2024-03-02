@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=30&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B!;I'm+Nguyen+Minh+Hieu.;A+student+from+VNU.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%92%E3%82%A8%E3%82%A6%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;VNU%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B!;I'm+Nguyen+Minh+Hieu.;A+student+from+VNU.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%EF%BC%81;%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%92%E3%82%A8%E3%82%A6%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;VNU%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -106,6 +106,6 @@
 <br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&weight=700&size=30&color=41B883&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&weight=700&size=25&color=41B883&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;訪問していただきありがとうございます!">
 </h3>
 
