@@ -14,7 +14,7 @@
 
 <div align="center">
 
- A Front-end Developer with a view to become a Fullstack Developer in the future.
+ A front end developer with a view to become a Fullstack Developer in the future.
 
  
  </div>
