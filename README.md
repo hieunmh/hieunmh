@@ -14,7 +14,7 @@
 
 <div align="center">
 
- A student with a view to become a full stack developer in the future.
+ A student with a view to become a software engineer in the future.
 
  
  </div>
