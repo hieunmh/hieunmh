@@ -38,8 +38,8 @@ a student with a view to become a software engineer in the future.
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,css,docker,express,git,github,html,java,js,laravel,mongodb" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,nuxtjs,php,py,supabase,tailwind,ts,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,dart,docker,express,flutter,git,github,html,java,js,laravel" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nextjs,nodejs,nuxtjs,php,py,supabase,tailwind,ts,vscode,vue" />
 </div>
 <div align="center"> 
 <!--   <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45px" alt="cplusplus logo" /></a>
