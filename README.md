@@ -93,7 +93,7 @@ a student with a view to become a software engineer in the future.
   <img style="height: 10rem" src="https://streak-stats.demolab.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15" />
 <!--     <br/> -->
 <!--   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/> -->
-  <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade,Cmake&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade,Cmake,java&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <br/>
