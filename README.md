@@ -38,8 +38,9 @@ a student with a view to become a software engineer in Japan.
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,css,dart,docker,express,flutter,git,github,html,java,js,laravel" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nextjs,nodejs,nuxtjs,php,py,supabase,tailwind,ts,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cpp,cypress,css,dart,docker,express,flutter,git,github" /><br/>
+    <img src="https://skillicons.dev/icons?i=gitlab,html,idea,java,js,laravel,mongodb,mysql,nextjs,nodejs,nuxtjs" /><br/>
+    <img src="https://skillicons.dev/icons?i=php,postgres,postman,py,redis,supabase,scala,tailwind,ts,vscode,vue" /><br/>
 </div>
 <div align="center"> 
 <!--   <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45px" alt="cplusplus logo" /></a>
