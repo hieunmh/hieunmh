@@ -6,9 +6,9 @@
    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B!;I'm+Nguyen+Minh+Hieu.;A+student+from+VNU.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%EF%BC%81;%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%92%E3%82%A8%E3%82%A6%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;VNU%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hieunmh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
-</p>
+<!-- <p> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=hieunmh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" /> -->
+<!-- </p> -->
 
 
 
@@ -23,7 +23,7 @@ a student with a view to become a software engineer in Japan.
     <a href="mailto:hieunm.pt@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://facebook.com/f.hieunm" target="_blank">
+    <a href="https://facebook.com/tk.hieunm" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
     </a>
     <a href="https://instagram.com/heheinclass" target="_blank">
@@ -91,7 +91,7 @@ a student with a view to become a software engineer in Japan.
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <div style="width: 100%" align="center">
-  <img style="height: 10rem" src="https://streak-stats.demolab.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15" />
+<!--   <img style="height: 10rem" src="https://streak-stats.demolab.com/?user=hieunmh&theme=vue-dark&hide_border=true&border_radius=15" /> -->
 <!--     <br/> -->
 <!--   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=hieunmh&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" /><br/> -->
   <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunmh&hide=HTML,CSS,blade,Cmake&theme=vue-dark&hide_border=true&border_radius=15&layout=compact&size_weight=0.5&count_weight=0.5" />
