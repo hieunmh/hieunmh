@@ -23,7 +23,7 @@ a student with a view to become a software engineer in Japan.
     <a href="mailto:hieunm.pt@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://facebook.com/tk.hieunm" target="_blank">
+    <a href="https://facebook.com/pt.hieunm" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
     </a>
     <a href="https://instagram.com/heheinclass" target="_blank">
